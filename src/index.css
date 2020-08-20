@@ -1,0 +1,29 @@
+body {
+  margin-top: 20px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.add{
+  margin-bottom: 15px;
+}
+
+.edit{
+float: right;
+}
+
+.button-remove{
+  float: right;
+  cursor: pointer;
+}
+
+.modal-title{
+margin-top: 35px;
+margin-bottom: 25px;
+}
+
+.img-preloader{
+  margin-left: 40%;
+  margin-top: 15px;
+
+}
